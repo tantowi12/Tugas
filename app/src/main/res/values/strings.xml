@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Menu Materi</string>
+    <string name="article">Satu tampilan yang mungkin sering Anda gunakan adalah kelas TextView, yang merupakan subkelas dari kelas View yang menampilkan teks pada layar. Anda bisa menggunakan TextView untuk tampilan berukuran apa pun, mulai dari karakter atau kata tunggal hingga teks selayar penuh. Anda bisa menambahkan id sumber daya ke TextView dan mengontrol cara teks muncul dengan menggunakan atribut di file layout XML.
+
+Anda bisa merujuk tampilan TextView di kode Java dengan menggunakan idsumber dayanya, dan memperbarui teks dari kode Anda. Jika Anda ingin memungkinkan pengguna mengedit teks, gunakan EditText, subkelas TextView yang memungkinkan pengeditan dan masukan teks. Anda mempelajari semua tentang EditText di bab lainnya.</string>
+</resources>
